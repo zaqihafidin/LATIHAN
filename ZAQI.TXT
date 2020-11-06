@@ -1,3 +1,4 @@
 LATIHAN 1     
 latihan 2
-latihan 3
+penghapusan latihan 1 
+penghapusan latihan 2
